@@ -1,0 +1,38 @@
+div.down{
+    background-color: black;
+}
+div.dnn{
+    margin-left: 79%;
+}
+div.Intro{
+    margin-left: 26%;
+}
+div.up{
+    background-color: black;
+}
+
+div.buttons{
+    margin-top: 50px;
+    margin-left: 530px;
+}
+div.bback{
+    background-image: url("Images/gymmmm.jpg");
+    height: 100%;
+}
+div.backimg{
+    background-image: url('Images/gggyymm.jpg');
+    
+}
+div.backimg::before::after{
+    
+    opacity: 0.5;
+}
+.seab{
+    margin-left: 520px;
+}
+.disc{
+    color: white;
+}
+.lowdisc{
+    color: white;
+}
